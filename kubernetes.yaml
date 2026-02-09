@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: app1
-        image: us-central1-docker.pkg.dev/project-f09e95b2-bc36-4b45-bf4/bjohn-ar-us-central/test-ar:9a34075
+        image: us-central1-docker.pkg.dev/project-f09e95b2-bc36-4b45-bf4/bjohn-ar-us-central/test-ar:e221308
         ports:
         - containerPort: 80
 ---
